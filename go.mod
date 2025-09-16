@@ -1,4 +1,4 @@
-module github.com/olegkim41/protos
+module github.com/olegpak1/protos
 go 1.24.6
 
 require (
